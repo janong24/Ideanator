@@ -1,0 +1,15 @@
+{
+  "name": "ideanator",
+  "version": "1.0.0",
+  "description": "Context switching aid",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Ong",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^34.0.1"
+  }
+}
